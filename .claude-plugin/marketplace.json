@@ -1,0 +1,11 @@
+{
+  "name": "tunnel-job",
+  "owner": { "name": "BartekZawadzki" },
+  "plugins": [
+    {
+      "name": "tunnel-job-df",
+      "source": "./plugins/tunnel-job-df",
+      "description": "Develop Tunnel Job and its packs with a Dark Factory agent: design, build, prove with bots, publish to the workshop."
+    }
+  ]
+}

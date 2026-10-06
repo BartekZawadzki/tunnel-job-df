@@ -1,0 +1,8 @@
+{
+  "name": "tunnel-job-df",
+  "version": "0.1.0",
+  "description": "Develop Tunnel Job and its packs with a Dark Factory agent: design, build, prove with bots, publish to the workshop.",
+  "author": { "name": "BartekZawadzki" },
+  "license": "MIT",
+  "keywords": ["gamedev", "voxel", "modding", "dark-factory", "mcp"]
+}
